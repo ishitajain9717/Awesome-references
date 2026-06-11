@@ -15,4 +15,12 @@ These are some of the best materials on the topics that I like to read or are of
 - [LLM from scratch](https://github.com/rasbt/LLMs-from-scratch)
 - [Lecture series based on book mentioned above](https://www.youtube.com/watch?v=Xpr8D6LeAtw&list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
 - [Best way to visualise LLM](https://bbycroft.net/llm)
-- 
+
+## Amazing Books (Read)
+
+- [Steve Jobs](https://cpcglobal.org/publications/Steve%20Jobs.pdf)
+- [Elon Musk](https://www.amazon.de/-/en/Elon-Musk-Walter-Isaacson/dp/1982181281)
+- [Leonardo-Vinci](https://www.amazon.de/-/en/Leonardo-Vinci-Walter-Isaacson/dp/1501139150)
+- [The Double Helix](https://www.goodreads.com/en/book/show/126061.The_Double_Helix)
+- [The Emperor of All Maladies](https://www.goodreads.com/en/book/show/7170627-the-emperor-of-all-maladies)
+- [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene)
