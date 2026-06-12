@@ -15,6 +15,7 @@ These are some of the best materials on the topics that I like to read or are of
 - [LLM from scratch](https://github.com/rasbt/LLMs-from-scratch)
 - [Lecture series based on book mentioned above](https://www.youtube.com/watch?v=Xpr8D6LeAtw&list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
 - [Best way to visualise LLM](https://bbycroft.net/llm)
+- [Stanford lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)
 
 ## Amazing Books (Read)
 
@@ -24,3 +25,9 @@ These are some of the best materials on the topics that I like to read or are of
 - [The Double Helix](https://www.goodreads.com/en/book/show/126061.The_Double_Helix)
 - [The Emperor of All Maladies](https://www.goodreads.com/en/book/show/7170627-the-emperor-of-all-maladies)
 - [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene)
+
+## RAG 
+- [MCP vs CLI](https://www.youtube.com/watch?v=g9JIUM0MHgQ)
+- [MCP vs CLI](https://circleci.com/blog/mcp-vs-cli/)
+- [RAG vs Agentic RAG](https://www.youtube.com/watch?v=0z9_MhcYvcY)
+- 
