@@ -30,4 +30,6 @@ These are some of the best materials on the topics that I like to read or are of
 - [MCP vs CLI](https://www.youtube.com/watch?v=g9JIUM0MHgQ)
 - [MCP vs CLI](https://circleci.com/blog/mcp-vs-cli/)
 - [RAG vs Agentic RAG](https://www.youtube.com/watch?v=0z9_MhcYvcY)
-- 
+
+## Openclaw_vs_Cursor
+- [Cursor or Openclaw](https://github.com/andeya/openclaw-cursor-brain/blob/main/README.md)
