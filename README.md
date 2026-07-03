@@ -39,3 +39,6 @@ These are some of the best materials on the topics that I like to read or are of
 
 ## Skills Standards:
 - [Best practices for designing skills](https://agentskills.io/home)
+
+## Skill Scanner
+- [Scanning for skills](https://github.com/cisco-ai-defense/skill-scanner)
