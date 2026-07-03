@@ -33,3 +33,9 @@ These are some of the best materials on the topics that I like to read or are of
 
 ## Openclaw_vs_Cursor
 - [Cursor or Openclaw](https://github.com/andeya/openclaw-cursor-brain/blob/main/README.md)
+
+## Agent Harnesses used in K-dense and Biomni
+- [K-Dense](https://github.com/K-Dense-AI)
+
+## Skills Standards:
+- [Best practices for designing skills](https://agentskills.io/home)
